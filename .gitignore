@@ -1,0 +1,44 @@
+# Byte-compiled / optimized / DLL files
+.pytest_cache
+.env-local
+.env
+.env-auth-remoute
+.env-auth-local
+__pycache__/
+*.py[cod]
+*$py.class
+dist/
+core.egg-info/
+
+# mypy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+typings/
+typings
+
+
+# all
+.idea
+.env.local
+.coverage
+coverage.xml
+report.xml
+.mutmut-cache
+.venv
+*.bak
+build
+build/
+
+data
+data/
+
+.pyre
+.pyre/
+
+.pytype
+.pytype/
+
+core.svg
+
+config
