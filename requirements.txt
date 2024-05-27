@@ -1,1 +1,4 @@
 aiogram==2.25.1
+# python-dotenv
+uuid
+requests
