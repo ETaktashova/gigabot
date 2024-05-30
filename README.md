@@ -1,6 +1,6 @@
 # gigabot
 
-## telegram bot that answers user questions through requests to gigachat-llm.
+## telegram bot that answers on user questions through requests to gigachat-llm.
 
 ## ОБЯЗАТЕЛЬНО:
   Создать локально в директории проекта файл .env c захардкож.переменными окр-я(попросить у меня)
